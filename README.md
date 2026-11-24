@@ -1,7 +1,9 @@
+
 # Breast Cancer Survival Prediction
 
 Predicting survival in breast cancer patients using the SEER dataset: exploratory analysis, statistical testing, six machine learning models with hyperparameter tuning, and explainable AI (SHAP & LIME).
 
+<img width="1149" height="653" alt="output" src="https://github.com/user-attachments/assets/975eea01-41e6-4081-8b79-6466c201ac4e" />
 ---
 
 ## Project Overview
