@@ -5,7 +5,6 @@ Predicting survival in breast cancer patients using the SEER dataset: explorator
 
 <img width="1149" height="653" alt="output" src="https://github.com/user-attachments/assets/975eea01-41e6-4081-8b79-6466c201ac4e" />
 *SHAP summary: each dot is a patient; red = high feature value, dots to the right = higher predicted risk of death. Node Ratio, the engineered feature, is the strongest predictor.*
----
 
 ## Project Overview
 
